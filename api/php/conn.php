@@ -4,8 +4,8 @@ date_default_timezone_set('America/Sao_Paulo');
 class Conn {    
     public static $host = "localhost";
     public static $usuario = "id16360303_lucasy";
-    public static $senha = "x_48+K%u1j4@N7Rs";
-    public static $banco = "id16360303_ponto";
+    public static $senha = "";
+    public static $banco = "pont";
     private static $Connect = null;
     
     private static function Conectar() {
