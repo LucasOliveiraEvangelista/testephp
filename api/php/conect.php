@@ -3,7 +3,7 @@ setlocale(LC_TIME, 'pt_BR', 'pt_BR.utf-8', 'pt_BR.utf-8', 'portuguese');
 date_default_timezone_set('America/Sao_Paulo');
 class Conn {    
     public static $host = "localhost";
-    public static $usuario = "id16360303_lucasy";
+    public static $usuario = "root";
     public static $senha = "";
     public static $banco = "pont";
     private static $Connect = null;

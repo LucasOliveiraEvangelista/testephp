@@ -2,3 +2,18 @@ senha : x_48+K%u1j4@N7Rs
 user: id16360303_lucasy
 nome: id16360303_ponto
 host: localhost
+
+Mensagem: SQLSTATE[HY000] [2002] No such file or directory
+
+SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+
+Mensagem: SQLSTATE[HY000] [1045] Access denied for user 'id16360303_lucasy'@'localhost' (using password: YES)
+
+resolver DB para conectar pra fazer os testes
+tenar achar outro
+
+
+
+
+
+senha do site: KI!@gistfd&NoA3wbY(E
